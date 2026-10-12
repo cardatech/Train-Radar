@@ -1,0 +1,6 @@
+{
+  "name": "RailRadar24 - Live Train Tracker",
+  "description": "Real-time GPS tracking and live status updates for passenger and freight rail networks across Portugal and Europe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
